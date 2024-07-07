@@ -6,3 +6,7 @@ This project is a beginner's guide to getting started with ROS 1 and ROS 2. It p
 ### **1. Download and Install VirtualBox**
 Set up VirtualBox to create a virtual environment for development.  
 [VirtualBox Download](https://www.virtualbox.org/wiki/Downloads)
+
+### **2. Download Ubuntu 20.04 Desktop Image**
+Download the Ubuntu 20.04 desktop image.  
+[Ubuntu 20.04 Desktop Image](https://releases.ubuntu.com/20.04/)
