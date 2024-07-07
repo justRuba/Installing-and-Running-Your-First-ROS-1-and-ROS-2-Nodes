@@ -132,3 +132,24 @@ sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key  -
 ```bash
 echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] http://packages.ros.org/ros2/ubuntu $(source /etc/os-release && echo $UBUNTU_CODENAME) main" | sudo tee /etc/apt/sources.list.d/ros2.list > /dev/null
 ```
+
+- Step 3: Ensure your system is up to date before installing new packages
+
+```bash
+sudo apt update 
+```
+```bash
+sudo apt upgrade
+```
+
+- Step 4: ROS2 Desktop Install
+
+```bash
+sudo apt install ros-foxy-desktop
+```
+```bash
+sudo apt install ros-foxy-ros-base 
+```
+```bash
+source /opt/ros/foxy/setup.bash   
+```
