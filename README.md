@@ -30,3 +30,7 @@ Set up VirtualBox to create a virtual environment for development.
   Choose "Erase disk and install Ubuntu" option.
 
   Complete the installation and restart your virtual machine.
+
+- Configure Ubuntu:
+
+  Log in to Ubuntu and perform initial setup (This may include updating packages, configuring network settings, and adjusting display preferences).
