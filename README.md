@@ -27,13 +27,17 @@ This project is a beginner's guide to getting started with ROS 1 and ROS 2. It p
 
   Follow the Ubuntu installation wizard using the Ubuntu 20.04 desktop image you downloaded.
 
-  Choose "Erase disk and install Ubuntu" option.
+  Choose the "Erase disk and install Ubuntu" option.
 
   Complete the installation and restart your virtual machine.
 
 - Configure Ubuntu:
 
   Log in to Ubuntu and perform initial setup (This may include updating packages, configuring network settings, and adjusting display preferences).
+
+That's what your VirtualBox looks like!
+  ![Ubuntu 20 4](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/90858fd5-7a1e-44c4-a286-5a8c9f221ba2)
+
 
 ## **3. Install ROS 1 Noetic**
 
