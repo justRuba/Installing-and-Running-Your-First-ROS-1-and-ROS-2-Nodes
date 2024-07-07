@@ -45,10 +45,21 @@ That's what your VirtualBox looks like!
 
 Follow these steps to install ROS 1 (Noetic) on Ubuntu 20.04:
 
-- Step 1: Set up your sources.list
+- Step 1: Set up sources.list
  
 ```bash
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+```
+
+- Step 2: Set up keys
+
+```bash
+ sudo apt install curl
+```
+Also 
+
+```bash
+ curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
 ```
 ## **4. Install ROS 2 Foxy**
 
