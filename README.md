@@ -14,3 +14,19 @@ Set up VirtualBox to create a virtual environment for development.
   Open VirtualBox and click on "New" to create a new virtual machine.
   
   Name your virtual machine (e.g., "Ubuntu 20.04") and choose "Linux" as the type, and "Ubuntu (64-bit)" as the version.
+
+- Allocate Memory and Create Virtual Hard Disk:
+
+  Allocate at least 2GB of RAM to the virtual machine.
+
+  Create a new virtual hard disk (VDI) and allocate sufficient storage space (e.g., 20GB or more).
+
+- Install Ubuntu 20.04:
+
+  Select your newly created virtual machine and click "Start".
+
+  Follow the Ubuntu installation wizard using the Ubuntu 20.04 desktop image you downloaded.
+
+  Choose "Erase disk and install Ubuntu" option.
+
+  Complete the installation and restart your virtual machine.
