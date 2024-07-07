@@ -36,3 +36,6 @@ This project is a beginner's guide to getting started with ROS 1 and ROS 2. It p
   Log in to Ubuntu and perform initial setup (This may include updating packages, configuring network settings, and adjusting display preferences).
 
 ## **3. Install ROS 1 Noetic**
+
+- Follow the instructions to install ROS 1 Noetic on Ubuntu 20.04.
+[ROS 1 Noetic Installation Guide](http://wiki.ros.org/noetic/Installation)
