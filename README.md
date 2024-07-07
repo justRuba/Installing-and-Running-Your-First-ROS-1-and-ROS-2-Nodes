@@ -205,3 +205,17 @@ graphical representation of your ROS network.
 ![graph](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/d1d43c02-9813-49a5-b397-32f0173a0a03)
 
 ## **6. Manipulate the Turtlesim Package in ROS 2 Foxy**
+
+ Follow a workflow similar to what I would do in ROS 1 but with the added step of ensuring that I am using ROS 2 commands and packages, not ROS 1.
+
+ - Step 1: The First Terminal
+   
+![ros2-1](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/e23e788d-dd79-4b74-a6c0-73358a3d2569)
+
+- Step 2: The Second Terminal
+
+![Ros2-2](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/fd63b3ec-22cf-4e2b-a1d5-cbf01a0ba59d)
+
+The Result:
+
+![Ros2_3](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/f1abb4b9-c125-4f28-92e3-ea78509e79ca)
