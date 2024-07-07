@@ -64,15 +64,11 @@ Also
 
 - Step 3: Installation
   3.1 Update package index:
-
-  ```bash
- sudo apt update
-  ```
-  3.2 Desktop-Full Install (Recommended, other options available)
-
-  ```bash
- sudo apt install ros-noetic-desktop-full
-  ```
+  
+```bash
+sudo apt update
+```
+  
 
 ## **4. Install ROS 2 Foxy**
 
