@@ -192,3 +192,5 @@ rosrun turtlesim turtle_teleop_key
 provides an interactive way to explore how to control robots using keyboard inputs in a simulated environment.
 
 ![Manipulate](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/4de03724-cd07-428e-9f82-ab227117683f)
+
+## **6. Manipulate the Turtlesim Package in ROS 2 Foxy**
