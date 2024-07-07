@@ -11,9 +11,9 @@ Set up VirtualBox to create a virtual environment for development.
 Download the Ubuntu 20.04 desktop image.  
 [Ubuntu 20.04 Desktop Image](https://releases.ubuntu.com/20.04/)
 
-Markup : <details>
-           <summary>Create a New Virtual Machine in VirtualBox:</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
-         </details>
+<details>
+   <summary>Create a New Virtual Machine in VirtualBox:</summary>
+   <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
 - Open VirtualBox and click on "New" to create a new virtual machine.
 - Name your virtual machine (e.g., "Ubuntu 20.04") and choose "Linux" as the type, and "Ubuntu (64-bit)" as the version.
