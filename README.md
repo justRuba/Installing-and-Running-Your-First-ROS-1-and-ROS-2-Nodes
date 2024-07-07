@@ -159,3 +159,14 @@ To check if ROS 2 Foxy was installed correctly
 
 ## **4. Manipulate the Turtlesim Package in ROS Noetic**
 
+Open Four Terminals
+
+- Step 1 :
+
+In one of the four Terminals
+Launching
+
+```bash
+roscore  
+```
+is typically the first step when you want to use ROS, as it sets up the essential infrastructure for communication and coordination between different parts.
