@@ -74,7 +74,11 @@ sudo apt update
 ```bash
  sudo apt install ros-noetic-desktop-full
 ```
-  
+3.3 To find available packages, use:
+
+```bash
+ apt search ros-noetic
+```
 
 ## **4. Install ROS 2 Foxy**
 
