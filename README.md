@@ -79,6 +79,11 @@ sudo apt update
 ```bash
  apt search ros-noetic
 ```
+- Step 4: Environment setup
+
+```bash
+ source /opt/ros/noetic/setup.bash
+```
 
 ## **4. Install ROS 2 Foxy**
 
