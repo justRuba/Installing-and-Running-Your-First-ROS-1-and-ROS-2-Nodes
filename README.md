@@ -181,3 +181,14 @@ rosrun turtlesim turtlesim_node
 ```
 
 ![turtle](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/e3833822-61ed-4158-bf01-8e5eab90067a)
+
+- Step 3: Manipulate
+
+In another one, 
+
+```bash
+rosrun turtlesim turtle_teleop_key
+```
+provides an interactive way to explore how to control robots using keyboard inputs in a simulated environment.
+
+![Manipulate](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/4de03724-cd07-428e-9f82-ab227117683f)
