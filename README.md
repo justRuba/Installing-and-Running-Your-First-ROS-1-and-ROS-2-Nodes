@@ -34,3 +34,5 @@ Set up VirtualBox to create a virtual environment for development.
 - Configure Ubuntu:
 
   Log in to Ubuntu and perform initial setup (This may include updating packages, configuring network settings, and adjusting display preferences).
+
+## **3. Install ROS 1 Noetic**
