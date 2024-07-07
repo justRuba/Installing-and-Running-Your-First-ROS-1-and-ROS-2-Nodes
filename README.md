@@ -38,4 +38,11 @@ This project is a beginner's guide to getting started with ROS 1 and ROS 2. It p
 ## **3. Install ROS 1 Noetic**
 
 - Follow the instructions to install ROS 1 Noetic on Ubuntu 20.04.
-[ROS 1 Noetic Installation Guide](http://wiki.ros.org/noetic/Installation/Ubuntu)
+
+  [ROS 1 Noetic Installation Guide](http://wiki.ros.org/noetic/Installation/Ubuntu)
+
+## **4. Install ROS 2 Foxy**
+
+- Follow the instructions to install ROS 2 Foxy on Ubuntu 20.04.
+
+   [ROS 3 Foxy Installation Guide](https://rulshi.blogspot.com/2022/09/how-to-install-ros2-in-ubuntu-20.html)
