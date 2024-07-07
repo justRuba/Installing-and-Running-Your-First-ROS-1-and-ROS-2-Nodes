@@ -13,7 +13,6 @@ Download the Ubuntu 20.04 desktop image.
 
 <details>
    <summary>Create a New Virtual Machine in VirtualBox:</summary>
-   <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
 
 - Open VirtualBox and click on "New" to create a new virtual machine.
