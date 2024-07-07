@@ -206,7 +206,7 @@ graphical representation of your ROS network.
 
 ## **6. Manipulate the Turtlesim Package in ROS 2 Foxy**
 
- Follow a workflow similar to what I would do in ROS 1 but with the added step of ensuring that I am using ROS 2 commands and packages, not ROS 1.
+ Follow a workflow similar to what I did in ROS 1 but with the added step of ensuring that I am using ROS 2 commands and packages, not ROS 1.
 
  - Step 1: The First Terminal
    
