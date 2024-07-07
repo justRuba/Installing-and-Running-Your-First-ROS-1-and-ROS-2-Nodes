@@ -105,6 +105,10 @@ sudo rosdep init
 rosdep update
 ```
 
+To check if ROS 1 Noetic installed correctly
+
+![ROS1](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/9e06e2f5-cfe1-4b3f-b60e-38fef480bbe2)
+
 ## **4. Install ROS 2 Foxy**
 
 - Follow the instructions to install ROS 2 Foxy on Ubuntu 20.04.
