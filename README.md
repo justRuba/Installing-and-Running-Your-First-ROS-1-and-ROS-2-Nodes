@@ -193,4 +193,15 @@ provides an interactive way to explore how to control robots using keyboard inpu
 
 ![Manipulate](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/4de03724-cd07-428e-9f82-ab227117683f)
 
+- Step 4: Graphical tool 
+
+In Last one,
+
+```bash
+rqt_graph
+```
+graphical representation of your ROS network.
+
+![graph](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/d1d43c02-9813-49a5-b397-32f0173a0a03)
+
 ## **6. Manipulate the Turtlesim Package in ROS 2 Foxy**
