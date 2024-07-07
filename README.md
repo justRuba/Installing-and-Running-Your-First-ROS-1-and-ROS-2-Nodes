@@ -45,4 +45,4 @@ This project is a beginner's guide to getting started with ROS 1 and ROS 2. It p
 
 - Follow the instructions to install ROS 2 Foxy on Ubuntu 20.04.
 
-   [ROS 3 Foxy Installation Guide](https://rulshi.blogspot.com/2022/09/how-to-install-ros2-in-ubuntu-20.html)
+   [ROS 2 Foxy Installation Guide](https://rulshi.blogspot.com/2022/09/how-to-install-ros2-in-ubuntu-20.html)
