@@ -61,6 +61,19 @@ Also
 ```bash
  curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
 ```
+
+- Step 3: Installation
+  3.1 Update package index:
+
+  ```bash
+ sudo apt update
+  ```
+  3.2 Desktop-Full Install (Recommended, other options available)
+
+  ```bash
+ sudo apt install ros-noetic-desktop-full
+  ```
+
 ## **4. Install ROS 2 Foxy**
 
 - Follow the instructions to install ROS 2 Foxy on Ubuntu 20.04.
