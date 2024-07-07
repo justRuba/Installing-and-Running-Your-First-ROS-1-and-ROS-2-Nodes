@@ -105,7 +105,7 @@ sudo rosdep init
 rosdep update
 ```
 
-To check if ROS 1 Noetic installed correctly
+To check if ROS 1 Noetic was installed correctly
 
 ![ROS1](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/9e06e2f5-cfe1-4b3f-b60e-38fef480bbe2)
 
@@ -153,3 +153,6 @@ sudo apt install ros-foxy-ros-base
 ```bash
 source /opt/ros/foxy/setup.bash   
 ```
+To check if ROS 2 Foxy was installed correctly
+
+![Ros2](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/1d343c78-c71a-486c-bbd8-09309a5a796c)
