@@ -1,5 +1,5 @@
 # Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes
-This project is a beginner's guide to getting started with ROS 1 and ROS 2. It provides instructions on how to set up the development environment, install ROS 1 (Noetic) and ROS 2 (Foxy), and run your first nodes using the Turtlesim package.
+Guide to getting started with ROS 1 and ROS 2. Provides instructions on how to set up the development environment, install ROS 1 (Noetic) and ROS 2 (Foxy), and run the first nodes using the Turtlesim package.
 ## **1. Download and Install VirtualBox**
 - Set up VirtualBox to create a virtual environment for development.  
 [VirtualBox Download](https://www.virtualbox.org/wiki/Downloads)
