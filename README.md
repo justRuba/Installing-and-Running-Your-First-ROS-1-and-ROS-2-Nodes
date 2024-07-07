@@ -13,4 +13,5 @@ Download the Ubuntu 20.04 desktop image.
 
 - Create a New Virtual Machine in VirtualBox:
 Open VirtualBox and click on "New" to create a new virtual machine.
+
 Name your virtual machine (e.g., "Ubuntu 20.04") and choose "Linux" as the type, and "Ubuntu (64-bit)" as the version.
