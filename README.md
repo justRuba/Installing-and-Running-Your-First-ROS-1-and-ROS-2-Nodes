@@ -91,7 +91,7 @@ sudo apt update
  sudo apt install python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential
 ```
 
-6.1 Initialize rosdep
+5.1 Initialize rosdep
 
 ```bash
  sudo apt install python3-rosdep
