@@ -111,6 +111,24 @@ To check if ROS 1 Noetic installed correctly
 
 ## **4. Install ROS 2 Foxy**
 
-- Follow the instructions to install ROS 2 Foxy on Ubuntu 20.04.
+Follow these steps to install ROS 2 (Foxy) on Ubuntu 20.04:
 
-   [ROS 2 Foxy Installation Guide](https://rulshi.blogspot.com/2022/09/how-to-install-ros2-in-ubuntu-20.html)
+Before starting make sure to have a locale that supports UTF-8
+
+- Step 1: Setup Sources
+
+```bash
+apt-cache policy | grep universe 
+```
+
+- Step 2: Add the ROS 2 apt repositories to your system
+
+```bash
+sudo apt update && sudo apt install curl gnupg2 lsb-release
+```
+```bash
+sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key  -o /usr/share/keyrings/ros-archive-keyring.gpg 
+```
+```bash
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] http://packages.ros.org/ros2/ubuntu $(source /etc/os-release && echo $UBUNTU_CODENAME) main" | sudo tee /etc/apt/sources.list.d/ros2.list > /dev/null
+```
