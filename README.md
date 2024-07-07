@@ -163,10 +163,21 @@ Open Four Terminals
 
 - Step 1 :
 
-In one of the four Terminals
+In one of the four Terminals,
+
 Launching
 
 ```bash
 roscore  
 ```
 is typically the first step when you want to use ROS, as it sets up the essential infrastructure for communication and coordination between different parts.
+
+- Step 2: Starts the turtlesim simulator window
+
+In another one,
+
+```bash
+rosrun turtlesim turtlesim_node  
+```
+
+![turtle](https://github.com/justRuba/Installing-and-Running-Your-First-ROS-1-and-ROS-2-Nodes/assets/134620937/e3833822-61ed-4158-bf01-8e5eab90067a)
