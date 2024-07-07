@@ -85,6 +85,26 @@ sudo apt update
  source /opt/ros/noetic/setup.bash
 ```
 
+- Step 5: Dependencies for building packages
+
+```bash
+ sudo apt install python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential
+```
+
+6.1 Initialize rosdep
+
+```bash
+ sudo apt install python3-rosdep
+```
+Also
+
+```bash
+sudo rosdep init
+```
+```bash
+rosdep update
+```
+
 ## **4. Install ROS 2 Foxy**
 
 - Follow the instructions to install ROS 2 Foxy on Ubuntu 20.04.
