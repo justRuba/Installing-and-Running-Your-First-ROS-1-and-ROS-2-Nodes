@@ -49,7 +49,7 @@ Follow these steps to install ROS 1 (Noetic) on Ubuntu 20.04:
  
 ```bash
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
-
+```
 ## **4. Install ROS 2 Foxy**
 
 - Follow the instructions to install ROS 2 Foxy on Ubuntu 20.04.
